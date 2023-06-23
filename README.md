@@ -1,5 +1,6 @@
  [![Mailing list : test](http://img.shields.io/badge/Email-gray.svg?style=for-the-badge&logo=gmail)](mailto:ashutosh.dongare@gmail.com) [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-GNU%20AGPL%203.0-lightgrey.svg?style=for-the-badge)](https://github.com/AshutoshDongare/convo/blob/main/LICENSE)
 
+![cgpt](https://github.com/AshutoshDongare/AutoBi/assets/18417621/73bf9b76-ad38-49d2-9430-940a37a5240f)
 
 
 # LangChain OpenAI based QnA on the Table.
