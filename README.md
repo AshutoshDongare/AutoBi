@@ -13,5 +13,5 @@ The query results are then summarized by the model to provide the answer.
 
 This approach improves efficiency and accuracy in retrieving information from tabular data. It leverages established techniques in natural language processing and database management. The project incorporates principles of information retrieval and summarization, ensuring the answers are concise and comprehensive.
 
-
+* Above text is para phrased by ChatGPT
 
